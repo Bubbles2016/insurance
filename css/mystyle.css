@@ -1,0 +1,278 @@
+#logo_bekdache {
+	width: 70px;
+	height: 70px
+}
+
+.header-topbar .topbar {
+	background: #124364 !important;
+}
+
+.slider-2 .btn--white, .slider-4 .btn--white {
+	color: #124364 !important;
+}
+
+.navbar-nav > li.has-dropdown > ul.dropdown-menu {
+	background-color: #124364 !important;
+}
+
+ul.dropdown-menu li a, ul.mega-menu li ul li a {
+	width: 160px;
+	color: #ccc;
+}
+
+.about-2 .btn--dark-gradient {
+	background: #124364 !important;
+	transition: background-color 1s;
+}
+
+.btn--secondary {
+	background: white !important;
+	border-color: transparent !important;
+	color: black !important;
+}
+
+.about-2 .contact-box, .about-2 .contat-heading {
+	background: #124364 !important;
+}
+
+.btn--gradient {
+	background: #124364 !important;
+}
+
+.heading .heading--subtitle {
+	color: black !important;
+}
+
+.entry--title a {
+	color: black;
+}
+
+.entry--more a {
+	color: white;
+}
+
+.view_all {
+	text-align: center;
+}
+
+.bg-theme {
+	background: #124364 !important;
+}
+.widget-about {
+	text-align: center;
+}
+
+.widget-about p {
+	font-size: 1.5rem;
+}
+
+.widget-content img {
+	width: 5rem;
+	height: 5rem;
+	text-align: center;
+}
+
+.backtop {
+	background-color: #124364 !important;
+}
+
+.addpadd {
+	margin-left: 1.5rem;
+}
+
+.addpadd p {
+	color: white;
+}
+
+.addrightpadd {
+	margin-right:8.5rem;
+}
+
+.addrightpadd p {
+	color: white;
+}
+/* make the main header sticky */
+.fixedheader {
+  padding: 10px 16px;
+  background: #555;
+  color: #f1f1f1;
+}
+
+/* The sticky class is added to the header with JS when it reaches its scroll position */
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the header gets a new position at the top of the page (position:fixed and top:0) */
+.sticky {
+  padding-top: 102px;
+}
+
+.case-item .case--hover .case--action {
+	background-color: #124364 !important;
+	opacity: 0.5;
+}
+
+.about-2 .contact-box .contat-heading h3 {
+	color: #b8b0ad !important;
+}
+
+.case-item .case--cat a {
+	color: #124364 !important;
+}
+
+.about--text.pr-60 {
+	text-align: justify !important;
+}
+
+.feature-card-desc {
+	text-align: justify !important;
+}
+
+.entry--bio p {
+	text-align: justify !important;
+}
+
+.header-topbar .topbar .contact-info i, 
+.topbar .contact-info,
+.header-topbar .topbar .contact-social,
+.header-topbar .topbar .contact-social a  {
+	color: #cccccc !important;
+}
+
+.header-light .navbar .module .module-icon i, 
+.header-light .navbar .navbar-nav > li > a {
+	font-weight: 300 !important;
+}
+
+.header-light .navbar .navbar-nav > li > .menu-item:hover::before, .header-light .navbar .navbar-nav > li.active > .menu-item:before {
+	height: 1px !important;
+}
+
+.module--search-box .form-search {
+	border-bottom: 2px solid #cccccc !important; 
+}
+
+::selection {
+	background-color: transparent !important;
+	color: black;
+}
+
+.btn--white:active, .btn--white:focus, .btn--white:hover {
+	background-color: #124364 !important;
+	border-color: #124364 !important;
+	color: white !important;
+}
+
+.slider {
+	height: 85vh;
+}
+
+.about-2 .contact-box .contat-heading h3 {
+	color: #ccc !important;
+}
+
+.btn--secondary.btn--inverse:active, .btn--secondary.btn--inverse:focus, .btn--secondary.btn--inverse:hover  {
+	background-color: #ccc !important;
+	color: white !important;
+}
+
+#featured1 {
+	padding-top: 0 !important;
+	padding-bottom: 0 !important;
+}
+
+section
+{
+	padding-top: 20px !important;
+	padding-bottom: 20px !important;
+}
+
+.pb-60 {
+	padding-bottom: 30px !important;
+}
+
+.heading .heading-2 .mb-50 .text--center .two {
+	text-align: center !important;
+}
+
+.btn {
+	width: 145px;
+	transition: background-color 1s;
+}
+
+.btn--gradient:hover {
+	background-color: white !important;
+	border-style: solid;
+	border-color: #124364;
+	color: #124364;
+}
+
+ul.dropdown-menu li > a:active, 
+ul.dropdown-menu li > a:focus, 
+ul.dropdown-menu li > a:hover, ul.mega-menu li a:active, ul.mega-menu li a:focus, ul.mega-menu li a:hover {
+	color: #ccc;
+}
+
+.view_all {
+	padding-top: 20px !important;
+}
+
+.feature-card .feature-card-icon i {
+	color: #124364;
+}
+
+.case-item .case--title h4 a:hover {
+	color: #124364;
+}
+
+.about-2 .btn--dark-gradient:hover {
+	border-style: solid;
+    background: white !important;
+    color: #124364 !important;
+    border-color: #124364;
+}
+
+.entry--date {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+/*#case2 .case--img img {
+	max-width: 150px;
+	max-height: 150px;
+}*/
+
+#primary-menu img {
+	display: inline-block;
+}
+
+
+#primary-menu span {
+	color: black;
+	display: none;
+}
+
+@media only screen and (max-width: 768px) {
+    #primary-menu span {
+		display: inline-block;
+		color: #124364;
+	}
+}
+
+#case2 .case-item-container {
+	max-width: 150px;
+	max-width: 150px;
+}
+
+.owl-prev span,
+.owl-next span
+{
+	border:#124364;
+	font-size: 24px;
+}
+
+
+
